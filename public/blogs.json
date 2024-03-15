@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "author_img": "https://i.ibb.co/1ZjrzLZ/1517026050983.jpg",
+      "title": "The Art of Gardening: A Beginner's Guide",
+      "cover_img": "https://i.ibb.co/F4nYbxR/pexels-jadson-thomas-542555.jpg",
+      "author_name": "Emily Green",
+      "posted_date": "2024-03-10",
+      "reading_time": 10,
+      "hashtags": ["gardening", "beginners", "plants"]
+    },
+    {
+      "id": 2,
+      "author_img": "https://i.ibb.co/xYrpNQ5/1581350478912.jpg",
+      "title": "Exploring the Wonders of Deep Space",
+      "cover_img": "https://i.ibb.co/SVMJxLC/pexels-tatiana-syrikova-3932709.jpg",
+      "author_name": "Alex Astronomer",
+      "posted_date": "2024-03-11",
+      "reading_time": 15,
+      "hashtags": ["space", "astronomy", "science"]
+    },
+    {
+      "id": 3,
+      "author_img": "https://i.ibb.co/sJn4wR9/1-g-PFP0792c-WLa-Tm-Nh-RErhew.png",
+      "title": "10 Delicious Recipes for a Cozy Night In",
+      "cover_img": "https://i.ibb.co/v3tcR5t/pexels-askar-abayev-5638814.jpg",
+      "author_name": "Jamie Chef",
+      "posted_date": "2024-03-12",
+      "reading_time": 20,
+      "hashtags": ["recipes", "cooking", "food"]
+    },
+    {
+      "id": 4,
+      "author_img": "https://i.ibb.co/CKyb84H/man-with-glasses-smiling-looking-into-distance.jpg",
+      "title": "Mastering the Art of Photography: Tips and Tricks",
+      "cover_img": "https://i.ibb.co/Zgm74nr/pexels-pixabay-267961.jpg",
+      "author_name": "Sam Shutter",
+      "posted_date": "2024-03-13",
+      "reading_time": 12,
+      "hashtags": ["photography", "tips", "techniques"]
+    },
+    {
+      "id": 5,
+      "author_img": "https://i.ibb.co/F6wFKGb/98511ee98a1930b8938e42caf0904d2d.jpg",
+      "title": "10 Must-Visit Hidden Gems Around the World",
+      "cover_img": "https://i.ibb.co/8cWHdDN/pexels-g-l-i-k-4402272.jpg",
+      "author_name": "Wanderlust Explorer",
+      "posted_date": "2024-03-14",
+      "reading_time": 25,
+      "hashtags": ["travel", "adventure", "explore"]
+    }
+  ]
+  
